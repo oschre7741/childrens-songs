@@ -57,7 +57,7 @@ public class HokeyPokey
 	 *
 	 * @param part Body part to sing about in the verse
 	 */
-	public static void singIt(String p) // sings all lines for a part p
+	public static void singIt(String part) // sings all lines for a part p
 	{
 	
 	

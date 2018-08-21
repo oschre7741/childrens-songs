@@ -11,7 +11,7 @@ public class AntsGoMarching
 	/**
 	 * Sings the first two lines.
 	 *
-	 * @param Number (as a word) for how the ants march
+	 * @param number (as a word) for how the ants march
 	 */
 	public static void goMarching(String number) 
 	{
@@ -21,7 +21,7 @@ public class AntsGoMarching
 	/**
 	 * Sings the third line.
 	 *
-	 * @param Number (as a word) for how the ants march
+	 * @param number (as a word) for how the ants march
 	 */	
 	public static void noHurrah(String number)
 	{
